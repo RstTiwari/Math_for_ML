@@ -1,4 +1,4 @@
-import numpy as np
+import numpyPractise as np
 step = np.arange(0,8,0.1)
 
 
